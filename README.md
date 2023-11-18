@@ -1,9 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aman Kazmi</h1>
 <h3 align="center">A passionate Android Development from India</h3>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankazmi&label=Profile%20views&color=0e75b6&style=flat" alt="amankazmi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankazmi" alt="amankazmi" /></a> </p>
@@ -22,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/aman_kazmi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman_kazmi12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amankazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankazmi" height="30" width="40" /></a>
-<a href="https://instagram.com/aman___257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman___257" height="30" width="40" /></a>
+<a href="https://instagram.com/aman__257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman__257" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amankazmi257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amankazmi257" height="30" width="40" /></a>
 </p>
 
@@ -34,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankazmi&show_icons=true&locale=en" alt="amankazmi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankazmi&" alt="amankazmi" /></p>
+
