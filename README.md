@@ -26,7 +26,7 @@ Fork on GitHub5266
 <p align="left">
 <a href="https://twitter.com/aman_kazmi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman_kazmi12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amankazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankazmi" height="30" width="40" /></a>
-<a href="https://instagram.com/aman__257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman__257" height="30" width="40" /></a>
+<a href="https://instagram.com/aman___257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman___257" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amankazmi257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amankazmi257" height="30" width="40" /></a>
 </p>
 
